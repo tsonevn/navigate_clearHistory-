@@ -1,0 +1,4 @@
+<Page>
+    <Label text="page2"/>
+    <Button text="Go back" tap="back"/>
+</Page>

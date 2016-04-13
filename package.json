@@ -1,0 +1,16 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.navigateissue1948",
+		"tns-android": {
+			"version": "2.0.0-2016-04-12-417"
+		}
+	},
+	"dependencies": {
+		"tns-android": "^2.0.0-2016-04-12-417",
+		"tns-core-modules": "1.7.1"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "^0.3.0",
+		"typescript": "^1.8.10"
+	}
+}
